@@ -1,0 +1,89 @@
+# JavaScript Problem Solving - Day 2
+
+## Problem 1 — Count Even Numbers
+
+Write a function `countEven(numbers)` that returns the number of even values in an array.
+
+### Example
+
+countEven([2, 5, 8, 11, 14])
+
+Output:
+
+3
+
+Return `"Invalid"` if:
+- Input is not an array
+- Input is null or undefined
+
+---
+
+## Problem 2 — Find the Smallest Number
+
+Write a function `findSmallest(numbers)` that returns the smallest number from an array.
+
+### Example
+
+findSmallest([15, 8, 30, 2, 9])
+
+Output:
+
+2
+
+Return `"Invalid"` if:
+- Input is not an array
+- Array is empty
+- Input is null or undefined
+
+---
+
+## Problem 3 — Palindrome Checker
+
+Write a function `isPalindrome(str)` that returns `true` if the string is a palindrome, otherwise `false`.
+
+### Examples
+
+madam → true
+
+level → true
+
+hello → false
+
+Return `"Invalid"` if the input is not a string.
+
+---
+
+## Problem 4 — Count Positive Numbers
+
+Write a function `countPositiveNumbers(numbers)` that returns the number of positive values in an array.
+
+### Example
+
+countPositiveNumbers([-5, 8, 0, 12, -3, 20])
+
+Output:
+
+3
+
+Note:
+0 is not a positive number.
+
+Return `"Invalid"` if:
+- Input is not an array
+- Input is null or undefined
+
+---
+
+## Problem 5 — Find the Longest Word
+
+Write a function `longestWord(sentence)` that returns the longest word from a sentence.
+
+### Example
+
+longestWord("I love JavaScript programming")
+
+Output:
+
+programming
+
+Return `"Invalid"` if the input is not a string.
