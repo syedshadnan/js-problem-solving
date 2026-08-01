@@ -18,43 +18,19 @@ This repository contains my daily JavaScript problem-solving practice. The goal 
 
 ---
 
-## 📚 Progress
+## 📂 Repository Structure
 
-### ✅ Day 1
-- Even or Odd
-- Count Vowels
-- Largest Number
-- Reverse String
-- Multiplication Table
-
-### ✅ Day 2
-- Count Even Numbers
-- Find the Smallest Number
-- Palindrome Checker
-- Count Positive Numbers
-- Find the Longest Word
-
-### ✅ Day 3
-- Count Odd Numbers
-- Find the Second Largest Number
-- Count Character
-- Remove Duplicates
-- Sum of Positive Numbers
-- Reverse Words
-
----
-
+```text
 js-problem-solving/
 │
 ├── README.md
-│
 ├── day-1/
 │   ├── problem1.js
 │   ├── problem2.js
 │   ├── problem3.js
 │   ├── problem4.js
 │   ├── problem5.js
-│   ├── final.js
+│   ├── solutions.js
 │   └── questions.md
 │
 ├── day-2/
@@ -63,7 +39,7 @@ js-problem-solving/
 │   ├── problem3.js
 │   ├── problem4.js
 │   ├── problem5.js
-│   ├── final.js
+│   ├── solutions.js
 │   └── questions.md
 │
 └── day-3/
@@ -73,8 +49,9 @@ js-problem-solving/
     ├── problem4.js
     ├── problem5.js
     ├── problem6.js
-    ├── final.js
+    ├── solutions.js
     └── questions.md
+```
 
 ---
 
