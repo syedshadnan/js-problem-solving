@@ -16,6 +16,30 @@ This repository contains my daily JavaScript problem-solving practice. The goal 
 - Prepare for Data Structures & Algorithms (DSA)
 - Maintain Daily Coding Consistency
 
+## 📈 Progress
+
+### ✅ Day 1
+- Even or Odd
+- Count Vowels
+- Find the Largest Number
+- Reverse String
+- Multiplication Table
+
+### ✅ Day 2
+- Count Even Numbers
+- Find the Smallest Number
+- Palindrome Checker
+- Count Positive Numbers
+- Find the Longest Word
+
+### ✅ Day 3
+- Count Odd Numbers
+- Find the Second Largest Number
+- Count Character
+- Remove Duplicates
+- Sum of Positive Numbers
+- Reverse Words
+
 ---
 
 ## 📂 Repository Structure
