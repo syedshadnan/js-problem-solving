@@ -2,7 +2,7 @@
 
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js&logoColor=white)
-![Progress](https://img.shields.io/badge/Progress-Day%203-blue)
+![Progress](https://img.shields.io/badge/Progress-Day%204-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Difficulty](https://img.shields.io/badge/Difficulty-Beginner-green)
 
@@ -39,6 +39,13 @@ This repository contains my daily JavaScript problem-solving practice. The goal 
 - Remove Duplicates
 - Sum of Positive Numbers
 - Reverse Words
+
+### ✅ Day 4
+- Find Missing Number
+- Anagram Checker
+- Find the Most Frequent Number
+- Capitalize First Letter
+- Longest Common Prefix
 
 ---
 
