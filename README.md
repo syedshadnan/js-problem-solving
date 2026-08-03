@@ -3,7 +3,7 @@
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js&logoColor=white)
 ![Problems](https://img.shields.io/badge/Problems-26-success)
-![Progress](https://img.shields.io/badge/Progress-Day%205%20of%2030-blue)
+![Progress](https://img.shields.io/badge/Progress-Day%205%20of%20100-blue)
 ![Difficulty](https://img.shields.io/badge/Difficulty-Beginner-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
