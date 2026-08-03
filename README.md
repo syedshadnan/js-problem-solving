@@ -48,7 +48,16 @@ This repository contains my daily JavaScript problem-solving practice. The goal 
 - Capitalize First Letter
 - Longest Common Prefix
 
+## 📅 Day 5
 
+### ✅ Topics Covered
+
+- Palindrome Checking
+- Finding the Largest Word
+- Array Rotation
+- Counting Vowels
+- Character Frequency Counting
+- First Non-Repeating Character
 
 ---
 
