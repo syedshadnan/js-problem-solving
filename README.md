@@ -53,7 +53,7 @@ This repository contains my daily JavaScript problem-solving practice. The goal 
 - Finding the Largest Word
 - Array Rotation
 - Counting Vowels
-- First Non-Repeating Character
+- First Non-Repeating Character.
 
 ---
 
