@@ -2,9 +2,10 @@
 
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js&logoColor=white)
-![Progress](https://img.shields.io/badge/Progress-Day%204-blue)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Problems](https://img.shields.io/badge/Problems-26-success)
+![Progress](https://img.shields.io/badge/Progress-Day%205%20of%2030-blue)
 ![Difficulty](https://img.shields.io/badge/Difficulty-Beginner-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 This repository contains my daily JavaScript problem-solving practice. The goal is to strengthen my JavaScript fundamentals, improve logical thinking, and prepare for Data Structures & Algorithms (DSA).
 
@@ -46,6 +47,17 @@ This repository contains my daily JavaScript problem-solving practice. The goal 
 - Find the Most Frequent Number
 - Capitalize First Letter
 - Longest Common Prefix
+
+## 📅 Day 5
+
+### ✅ Topics Covered
+
+- Palindrome Checking
+- Finding the Largest Word
+- Array Rotation
+- Counting Vowels
+- Character Frequency Counting
+- First Non-Repeating Character
 
 ---
 
