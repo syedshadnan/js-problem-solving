@@ -2,9 +2,9 @@
 
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems-26-success)
-![Progress](https://img.shields.io/badge/Progress-Day%205%20of%20100-blue)
-![Difficulty](https://img.shields.io/badge/Difficulty-Beginner-green)
+![Problems](https://img.shields.io/badge/Problems-29-success)
+![Progress](https://img.shields.io/badge/Progress-Day%206%20of%20100-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Beginner%20→%20Intermediate-orange)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 This repository contains my daily JavaScript problem-solving practice. The goal is to strengthen my JavaScript fundamentals, improve logical thinking, and prepare for Data Structures & Algorithms (DSA).
@@ -56,6 +56,12 @@ This repository contains my daily JavaScript problem-solving practice. The goal 
 - Counting Vowels
 - Character Frequency Counting
 - First Non-Repeating Character
+
+### ✅ Day 6
+
+- Find Intersection
+- Toggle Case
+- Chunk Array
 
 ---
 
