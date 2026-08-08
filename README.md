@@ -65,7 +65,21 @@ This repository contains my daily JavaScript problem-solving practice. The goal 
 - Toggle Case
 - Chunk Array
 
+### ✅ Day 7
 
+- Find the Difference
+- Count Words
+- Group Numbers
+- Character Frequency
+- Most Frequent Character
+
+### ✅ Day 8
+
+- Unique Positive Numbers
+- Word Frequency
+- Find Duplicate Numbers
+- Most Frequent Word
+- Student Result Analyzer
 
 ---
 
