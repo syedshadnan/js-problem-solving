@@ -1,11 +1,13 @@
 # JavaScript Problem Solving 🚀
 
-![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems-29-success)
-![Progress](https://img.shields.io/badge/Progress-Day%206%20of%20100-blue)
-![Difficulty](https://img.shields.io/badge/Difficulty-Beginner%20→%20Intermediate-orange)
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript\&logoColor=black)
+![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js\&logoColor=white)
+![Days%20Completed](https://img.shields.io/badge/Days-8%2F100-blue)
+![Problems%20Solved](https://img.shields.io/badge/Problems-40-success)
+![Level](https://img.shields.io/badge/Level-Beginner%20→%20Intermediate-orange)
+![Phase](https://img.shields.io/badge/Phase-ES6%20Starting-purple)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
 
 This repository contains my daily JavaScript problem-solving practice. The goal is to strengthen my JavaScript fundamentals, improve logical thinking, and prepare for Data Structures & Algorithms (DSA).
 
@@ -63,6 +65,8 @@ This repository contains my daily JavaScript problem-solving practice. The goal 
 - Toggle Case
 - Chunk Array
 
+
+
 ---
 
 ## 📂 Repository Structure
@@ -117,3 +121,5 @@ js-problem-solving/
 **Syed Shadnan Mozammel**
 
 GitHub: https://github.com/syedshadnan
+
+
