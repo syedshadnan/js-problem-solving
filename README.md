@@ -1,9 +1,9 @@
 # JavaScript Problem Solving 🚀
 
-![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript\&logoColor=black)
-![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js\&logoColor=white)
-![Days%20Completed](https://img.shields.io/badge/Days-8%2F100-blue)
-![Problems%20Solved](https://img.shields.io/badge/Problems-40-success)
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js&logoColor=white)
+![Days%20Completed](https://img.shields.io/badge/Days-9%2F100-blue)
+![Problems%20Solved](https://img.shields.io/badge/Problems-44-success)
 ![Level](https://img.shields.io/badge/Level-Beginner%20→%20Intermediate-orange)
 ![Phase](https://img.shields.io/badge/Phase-ES6%20Starting-purple)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
@@ -80,6 +80,13 @@ This repository contains my daily JavaScript problem-solving practice. The goal 
 - Find Duplicate Numbers
 - Most Frequent Word
 - Student Result Analyzer
+
+### ✅ Day 9
+Format User Info
+Merge Arrays
+Find Product By ID
+Count Passed Students
+Library Analyzer
 
 ---
 
