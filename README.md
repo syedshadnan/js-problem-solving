@@ -82,11 +82,11 @@ This repository contains my daily JavaScript problem-solving practice. The goal 
 - Student Result Analyzer
 
 ### ✅ Day 9
-Format User Info
-Merge Arrays
-Find Product By ID
-Count Passed Students
-Library Analyzer
+- Format User Info
+- Merge Arrays
+- Find Product By ID
+- Count Passed Students
+- Library Analyzer
 
 ---
 
