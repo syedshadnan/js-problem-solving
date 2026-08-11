@@ -11,6 +11,31 @@
 
 This repository contains my daily JavaScript problem-solving practice. The goal is to strengthen my JavaScript fundamentals, improve logical thinking, and prepare for Data Structures & Algorithms (DSA).
 
+---
+
+## 📂 Repository Structure
+
+```text
+js-problem-solving/
+
+├── days/
+│   ├── day-1/
+│   ├── day-2/
+│   ├── ...
+│   └── day-100/
+│
+├── learning-logs/
+│
+├── README.md
+├── ROADMAP.md
+├── PROJECT_CONTEXT.md
+├── MENTOR_INSTRUCTIONS.md
+└── QUESTION_GENERATION_RULES.md
+```
+
+---
+
+
 ## 🎯 Goals
 
 - Improve JavaScript Fundamentals
@@ -90,50 +115,12 @@ This repository contains my daily JavaScript problem-solving practice. The goal 
 
 ---
 
-## 📂 Repository Structure
-
-```text
-js-problem-solving/
-│
-├── README.md
-├── day-1/
-│   ├── problem1.js
-│   ├── problem2.js
-│   ├── problem3.js
-│   ├── problem4.js
-│   ├── problem5.js
-│   ├── solutions.js
-│   └── questions.md
-│
-├── day-2/
-│   ├── problem1.js
-│   ├── problem2.js
-│   ├── problem3.js
-│   ├── problem4.js
-│   ├── problem5.js
-│   ├── solutions.js
-│   └── questions.md
-│
-└── day-3/
-    ├── problem1.js
-    ├── problem2.js
-    ├── problem3.js
-    ├── problem4.js
-    ├── problem5.js
-    ├── problem6.js
-    ├── solutions.js
-    └── questions.md
-```
-
----
-
 ## 🛠️ Tech Stack
 
 - JavaScript
 - Node.js
 - Git
 - GitHub
-- More
 
 ---
 
