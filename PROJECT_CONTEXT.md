@@ -187,7 +187,7 @@ If this project is continued in a new AI conversation:
 4. Read ROADMAP.md
 5. Read LEARNING_LOG.md
 6. Read the latest completed day's questions.md
-7. 8. Read the latest completed day's solutions.js (if available)
+7. Read the latest completed day's solutions.js (if available)
 
 Use these files as the source of truth.
 
