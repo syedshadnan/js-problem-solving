@@ -2,10 +2,10 @@
 
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js&logoColor=white)
-![Days%20Completed](https://img.shields.io/badge/Days-9%2F100-blue)
-![Problems%20Solved](https://img.shields.io/badge/Problems-44-success)
+![Days Completed](https://img.shields.io/badge/Days-10%2F100-blue)
+![Problems Solved](https://img.shields.io/badge/Problems-49-success)
 ![Level](https://img.shields.io/badge/Level-Beginner%20→%20Intermediate-orange)
-![Phase](https://img.shields.io/badge/Phase-ES6%20Starting-purple)
+![Phase](https://img.shields.io/badge/Phase-ES6%20Array%20Methods-purple)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 
@@ -112,6 +112,16 @@ js-problem-solving/
 - Find Product By ID
 - Count Passed Students
 - Library Analyzer
+
+---
+
+### ✅ Day 10
+
+- Double Numbers
+- Get Adult Users
+- Extract Product Names
+- Passed Students Report
+- Inventory Summary
 
 ---
 
