@@ -36,30 +36,26 @@ GitHub Repository:
 
 # Current Status
 
-Current Day: 10
+Current Day: 11
 
 Current Phase: Modern JavaScript (ES6+)
 
-Problems Solved: 49
+Problems Solved: 54
 
 Current Focus:
 
 - ES6
-- Array Methods
-- map()
-- filter()
-- forEach()
+- Array Search Methods
+- find()
+- findIndex()
+- some()
+- every()
 - Modern JavaScript
 - Problem Solving
 
 Next Goal:
 
-- Day 11
-- find()
-- findIndex()
-- some()
-- every()
-
+- Day 12
 ---
 
 # Important Repository Files

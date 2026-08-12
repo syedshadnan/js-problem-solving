@@ -2,10 +2,10 @@
 
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js&logoColor=white)
-![Days Completed](https://img.shields.io/badge/Days-10%2F100-blue)
-![Problems Solved](https://img.shields.io/badge/Problems-49-success)
+![Days Completed](https://img.shields.io/badge/Days-11%2F100-blue)
+![Problems Solved](https://img.shields.io/badge/Problems-54-success)
 ![Level](https://img.shields.io/badge/Level-Beginner%20→%20Intermediate-orange)
-![Phase](https://img.shields.io/badge/Phase-ES6%20Array%20Methods-purple)
+![Phase](https://img.shields.io/badge/Phase-ES6%20Array%20Search%20Methods-purple)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 
@@ -34,7 +34,6 @@ js-problem-solving/
 ```
 
 ---
-
 
 ## 🎯 Goals
 
@@ -113,8 +112,6 @@ js-problem-solving/
 - Count Passed Students
 - Library Analyzer
 
----
-
 ### ✅ Day 10
 
 - Double Numbers
@@ -122,6 +119,14 @@ js-problem-solving/
 - Extract Product Names
 - Passed Students Report
 - Inventory Summary
+
+### ✅ Day 11
+
+- Find First Negative Number
+- Find User Index
+- Has Passing Student
+- Are All Products In Stock
+- Course Analyzer
 
 ---
 
