@@ -30,32 +30,28 @@ GitHub Repository:
 
 <https://github.com/syedshadnan/js-problem-solving>
 
-
-
 ---
 
 # Current Status
 
-Current Day: 11
+Current Day: 12
 
 Current Phase: Modern JavaScript (ES6+)
 
-Problems Solved: 54
+Problems Solved: 59
 
 Current Focus:
 
 - ES6
-- Array Search Methods
-- find()
-- findIndex()
-- some()
-- every()
+- reduce()
+- Data Aggregation
+- Array Methods
 - Modern JavaScript
 - Problem Solving
 
 Next Goal:
 
-- Day 12
+- Day 13
 ---
 
 # Important Repository Files

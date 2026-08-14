@@ -2,10 +2,10 @@
 
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js&logoColor=white)
-![Days Completed](https://img.shields.io/badge/Days-11%2F100-blue)
-![Problems Solved](https://img.shields.io/badge/Problems-54-success)
+![Days Completed](https://img.shields.io/badge/Days-12%2F100-blue)
+![Problems Solved](https://img.shields.io/badge/Problems-59-success)
 ![Level](https://img.shields.io/badge/Level-Beginner%20→%20Intermediate-orange)
-![Phase](https://img.shields.io/badge/Phase-ES6%20Array%20Search%20Methods-purple)
+![Phase](https://img.shields.io/badge/Phase-ES6%20Reduce-purple)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 
@@ -127,6 +127,14 @@ js-problem-solving/
 - Has Passing Student
 - Are All Products In Stock
 - Course Analyzer
+
+### ✅ Day 12
+
+- Sum All Numbers
+- Total Product Stock
+- Total Cart Price
+- Average Marks
+- Sales Report
 
 ---
 
