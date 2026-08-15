@@ -34,24 +34,30 @@ GitHub Repository:
 
 # Current Status
 
-Current Day: 12
+Current Day: 13
 
 Current Phase: Modern JavaScript (ES6+)
 
-Problems Solved: 59
+Problems Solved: 64
 
 Current Focus:
 
 - ES6
-- reduce()
-- Data Aggregation
+- sort()
+- Data Ordering
 - Array Methods
 - Modern JavaScript
 - Problem Solving
 
 Next Goal:
 
-- Day 13
+# Day 14:
+- slice()
+- splice()
+- Array Copying
+- Array Modification
+- Mutating vs Non-Mutating Methods
+
 ---
 
 # Important Repository Files

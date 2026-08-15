@@ -2,12 +2,11 @@
 
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js&logoColor=white)
-![Days Completed](https://img.shields.io/badge/Days-12%2F100-blue)
-![Problems Solved](https://img.shields.io/badge/Problems-59-success)
+![Days Completed](https://img.shields.io/badge/Days-13%2F100-blue)
+![Problems Solved](https://img.shields.io/badge/Problems-64-success)
 ![Level](https://img.shields.io/badge/Level-Beginner%20→%20Intermediate-orange)
-![Phase](https://img.shields.io/badge/Phase-ES6%20Reduce-purple)
+![Phase](https://img.shields.io/badge/Phase-ES6%20Sort-purple)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-
 
 This repository contains my daily JavaScript problem-solving practice. The goal is to strengthen my JavaScript fundamentals, improve logical thinking, and prepare for Data Structures & Algorithms (DSA).
 
@@ -18,13 +17,17 @@ This repository contains my daily JavaScript problem-solving practice. The goal 
 ```text
 js-problem-solving/
 
-├── days/
-│   ├── day-1/
-│   ├── day-2/
-│   ├── ...
-│   └── day-100/
+├── day-1/
+├── day-2/
+├── day-3/
+├── ...
+├── day-100/
 │
 ├── learning-logs/
+│   ├── day-10.md
+│   ├── day-11.md
+│   ├── ...
+│   └── day-100.md
 │
 ├── README.md
 ├── ROADMAP.md
@@ -135,6 +138,14 @@ js-problem-solving/
 - Total Cart Price
 - Average Marks
 - Sales Report
+
+### ✅ Day 13
+
+- Sort Numbers Ascending
+- Sort Numbers Descending
+- Sort Product Prices
+- Top Scorer
+- Movie Ranking System
 
 ---
 
