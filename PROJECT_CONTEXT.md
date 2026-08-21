@@ -34,29 +34,32 @@ GitHub Repository:
 
 # Current Status
 
-Current Day: 13
+Current Day: 14
 
 Current Phase: Modern JavaScript (ES6+)
 
-Problems Solved: 64
+Problems Solved: 69
 
 Current Focus:
 
 - ES6
-- sort()
-- Data Ordering
+- slice()
+- splice()
+- Array Copying
+- Array Modification
+- Mutating vs Non-Mutating Methods
 - Array Methods
 - Modern JavaScript
 - Problem Solving
 
 Next Goal:
 
-# Day 14:
-- slice()
-- splice()
-- Array Copying
-- Array Modification
-- Mutating vs Non-Mutating Methods
+# Day 15:
+- flat()
+- flatMap()
+- Nested Arrays
+- Array Flattening
+- Data Transformation
 
 ---
 
